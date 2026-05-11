@@ -69,20 +69,20 @@ public class PersonApp {
         ///display  info
 
         System.out.println(
-                        "I'm a student."  + "\n" +
-                        "My name is " + studentName + "\n" +
-                        "I'm (age)" + studentAge + "\n" +
-                        "My job is to (res) " + studentRes + "\n" +
-                        "My field is (student field) " + studentField + "\n" +
-                        "I attend club: (t/f)" + isClubMember);
+                        "I'm a student."  +
+                        "\nMy name is " + studentName +
+                        "\nI'm (age)" + studentAge +
+                        "\nMy job is to (res) " + studentRes +
+                        "\nMy field is (student field) " + studentField +
+                        "\nI attend club: (t/f)" + isClubMember);
 
         System.out.println("\n" +
-                "I'm a teacher." + "\n" +
-                "My name is " + teacherName + "\n" +
-                "I'm (age) " + teacherAge + "\n" +
-                "My job is (res)" + teacherRes  + "\n" +
-                "I teach (sub)" + subject + "\n" +
-                "I'm a sponsor of a club: " + isSponsor);
+                "\nI'm a teacher." +
+                "\nMy name is " + teacherName +
+                "\nI'm (age) " + teacherAge +
+                "\nMy job is (res)" + teacherRes  +
+                "\nI teach (sub)" + subject + 
+                "\nI'm a sponsor of a club: " + isSponsor);
     }
 
 }
