@@ -1,10 +1,10 @@
 package com.pluralsight;
 
-public class Monday {
+public class Inheritance {
     /*INHERITANCE
     what does DRY mean?
 
-    Why do we need Inheritence?
+    Why do we need Inheritance?
 
     Do all programming languages have inheritance?
 
