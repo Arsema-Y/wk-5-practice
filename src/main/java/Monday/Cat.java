@@ -4,6 +4,9 @@ public class Cat extends Animal{
 
     String breed;
 
+    Cat(){
+        super();
+    }
 
     public String getBreed() {return breed;}
 
